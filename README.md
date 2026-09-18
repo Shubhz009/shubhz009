@@ -1,6 +1,5 @@
 # 💫 About Me:
-Cloud & DevOps Learner | AWS | Linux | Git | CI/CD<br>Aspiring Cloud & DevOps Engineer | AWS | Linux | Networking<br>BCA Graduate | Cloud & DevOps Enthusiast | AWS | Linux | Git<br>Cloud Computing & DevOps | AWS | Linux | Docker | Git<br>Aspiring Cloud Engineer | AWS | Linux | Networking | DevOps
-
+I Am Cloud And DevOps Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-murkute-0b45273a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhammurkute564@gmail.com) 
